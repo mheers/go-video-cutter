@@ -1,0 +1,10 @@
+*.wav
+demofiles/*
+!demofiles/test.cue
+*.mp3
+*.mp4
+*.ogg
+*.mkv
+*.ts
+*.mpeg
+__debug_bin
